@@ -6,4 +6,4 @@ This repository contains the supplementary material for the paper
 
 For the supplementary material, please check <code>sdm14-supp.pdf</code>
 
-For the fulltext, please check EPFL link [here]((http://infoscience.epfl.ch/record/196276?ln=en)
+For the fulltext, please check EPFL link [here](http://infoscience.epfl.ch/record/196276?ln=en)
